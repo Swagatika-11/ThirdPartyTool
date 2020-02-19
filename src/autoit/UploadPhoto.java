@@ -19,6 +19,8 @@ public class UploadPhoto {
 	public static String driverpath="C:\\Users\\Mamalima\\eclipse-workspace\\ThirdPartyToolsDemo\\Drivers\\chromedriver.exe";
 	public static WebDriverWait wait=null;
 	ChromeOptions options = new ChromeOptions();
+	
+	//This is a precondition method to set the browser
 	@BeforeMethod
 	public void PreCondition() {
 		System.setProperty(drivername, driverpath);
