@@ -1,0 +1,5 @@
+2020-02-19 19:32:41 DEBUG LoggerDemo:9 - This is the debug method
+2020-02-19 19:32:41 ERROR LoggerDemo:12 - This is an error message
+2020-02-19 19:32:41 FATAL LoggerDemo:15 - This is a fatal error occurred dring the execution
+2020-02-19 19:32:41 INFO  LoggerDemo:18 - This is an information about AUT
+2020-02-19 19:32:41 WARN  LoggerDemo:21 - This is an warning message
